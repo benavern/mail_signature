@@ -1,1 +1,3 @@
-"# My new mail signature" 
+# My new mail signature
+
+![/screenshot.png](screenshot)
