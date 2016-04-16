@@ -1,3 +1,3 @@
 # My new mail signature
 
-![/screenshot.png](screenshot)
+![screenshot](https://raw.githubusercontent.com/benavern/mail_signature/master/screenshot.png)
